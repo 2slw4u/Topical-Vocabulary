@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\bin\Debug\SchoolQuizRandomized.exe.config
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\bin\Debug\SchoolQuizRandomized.exe
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\bin\Debug\SchoolQuizRandomized.pdb
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\obj\Debug\SchoolQuizRandomized.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\obj\Debug\SchoolQuizRandomized.Form1.resources
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\obj\Debug\SchoolQuizRandomized.Properties.Resources.resources
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\obj\Debug\SchoolQuizRandomized.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\obj\Debug\SchoolQuizRandomized.exe
+C:\Users\User\Desktop\Всякое программирование\Visual Studio + code\Visual Studio\Lessons\SchoolQuizRandomized\SchoolQuizRandomized\obj\Debug\SchoolQuizRandomized.pdb
